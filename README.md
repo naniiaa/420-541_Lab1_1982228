@@ -1,1 +1,1 @@
-Lab 1 - Game Programming 2
+| Lab 1 - Game Programming 2 | 
